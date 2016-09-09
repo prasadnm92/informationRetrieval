@@ -1,0 +1,48 @@
+
+----------------------------------------------------------------------	 -----------------------
+Average PR of its	No.	Page ID		PR			|Page ID	No.
+inlinks			of						|		of
+			inlinks						|		inlinks
+----------------------------------------------------------------------	 -----------------------
+4.138135466479579E-6	2568	WT21-B37-76	0.002694474415548877	|WT21-B37-76	2568
+5.227538279381066E-6	1704	WT21-B37-75	0.0015331790999983856	|WT21-B37-75	1704
+1.0212292225378212E-5	169	WT25-B39-116	0.001468501416325844	|WT01-B18-225	1137
+1.006649845863623E-5	198	WT23-B21-53	0.0013735249384257465	|WT08-B19-222	1041
+6.649840260618159E-6	291	WT24-B26-10	0.0012761567441301838	|WT08-B18-400	990
+1.0085465976052882E-5	270	WT24-B40-171	0.0012452932176087916	|WT21-B40-447	779
+5.329812509309006E-6	274	WT23-B39-340	0.0012429131583240457	|WT27-B34-57	630
+1.0079076131410832E-5	207	WT23-B37-134	0.001205421411225976	|WT27-B32-30	628
+2.7638821819104185E-6	990	WT08-B18-400	0.0011447772878379362	|WT25-B15-307	605
+9.526902063433932E-6	454	WT13-B06-284	0.001136558005311974	|WT27-B28-203	589
+
+1 WT21-B37-76
+This is, apparently, the homepage of "The Economist". Hence having a high page rank makes sense, apart from the fact that this page has the highest number of inlinks which is almost 1.5 times the inlink count of the next highest. So this could be a page that a user likely wants to see.
+ 
+2 WT21-B37-75
+This is the copyrights page of The Economist. This explains the large number of inlinks as anybody citing would link to this page. A user might want to see this page to verify their copyright rules so it makes some sense for being ranked 2nd.
+
+3 WT25-B39-116
+This is a page describing "Security Assurance Requirements" and is linked other parts, namely Part1 & Part2, which could mean that it explains a lot about the requirements. As seen from the values above, this page has inlinks from pages with considerably high page ranks. Hence although it has less number of inlinks it has a higher page rank.
+
+4 WT23-B21-53
+This page describes some "Web Development Team" and has information of people of this team. So a user looking for a person or the team itself would want to see this page as one of the results. As was the case with the previous page, this page has a high rank due to its connection with pages of high rank values.
+
+5 WT24-B26-10
+This page talks about a webiste called "Psychiatry star". It also has information of the team the developed it. So a user searching for Psychiatry star or people involved in it can be shown this as one of the results. Although this has more number of inlinks than the previous two pages, we can see that the ranks of its inlinks are not that high which makes it rank lower than the previous two pages.
+
+6 WT24-B40-171
+This page contains news of the year 1996 of each day. So it could be shown as one of the results for searching news. This explains the average page rank of its inlinks. So seeing that it has links of relatively higher page rank and has almost as many inlinks as the pages ranked higher, this page should be ranked higher than its current rank. Since a day's news can have more relevant information than a team or a website, a user more likely wants to see this result.
+
+7 WT23-B39-340
+This contains financial reports of a bunch of companies. I feel this is not an "interesting" result. This has a high page rank as it is linked to pages with relatively high ranks (as seen by the average ranks of its inlink pages).
+
+8 WT23-B37-134
+The page is tiled "Important Information" and the fact that its a .gov webpage, it might actually be an important page. It is highly unlikely that user would ever want such a result. It is linked to pages with a relatively high page rank.
+
+9 WT08-B18-400
+This page belongs to the TD Bank. Considering that its a well known bank, it makes sense having a high rank. Although the page does not give much information, it has considerably a high number of inlinks which may explain why it' ranked this high.
+
+10 WT13-B06-284
+This is a credits page to a website called "lawlead.com". It does not have many inlinks but is linked to pages with fairly highly ranked pages. A user might not be really interested in this result as it does not have much to say.
+
+As seen from the above table, except for 3 pages, none are even close to the number of inlinks of the top 10. Hence, we can say that page rank doesn't only depend on the number of inlinks but also the credibility (rank) of the pages it is linked to. Although this might not work out always, its a better statistic than just based on inlink count.
