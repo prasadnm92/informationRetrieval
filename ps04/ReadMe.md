@@ -19,7 +19,7 @@ There are no command line arguments required but it asks for inputs while runnin
 
 For this implementation, we use Lucene's Simple Analyser that ignores all non-letters (special characters and digits) while indexing the corpus data. There are other analysers like the Standard Analyser but for the purpose of this assignment we use the Simple Analyser.
 
-The program creates an index from a set of .xml/.htm/.html/.txt files that is provided as an input when prompted for (in this case we provide CACM corpus which is also included in the submission). Before indexing, we remove <html> and <pre> tags so that these don't form a part of the text corpus and rewrite the input files.
+The program creates an index from a set of .xml/.htm/.html/.txt files that is provided as an input when prompted for (in this case we provide CACM corpus which is also included in the submission). Before indexing, we remove &lt;html&gt; and &lt;pre&gt; tags so that these don't form a part of the text corpus and rewrite the input files.
 > Note: do not create the index multiple times. This will result in duplication of information.
 
 From the generated index, we create a LinkedHashMap of the terms and their frequencies in descending order of their frequencies.
